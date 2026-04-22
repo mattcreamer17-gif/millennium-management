@@ -1,0 +1,3 @@
+A bespoke, single-page landing built for Millennium Management in Millennium's own visual language: navy and cream palette, serif display headlines (Georgia) paired with Helvetica Neue body, thin horizontal rules under section heads, editorial measure (~66ch), and a four-column statbar (AUM / pods / trades / employees) echoing the pattern that runs across mlp.com. The page carries the fit-analysis pitch body verbatim in reflow, with the Ethics Engine bio and links included, KPMG UK framed as one of the Big Four, and a scoped CTA to a 30-minute call with Matt Creamer (CRO). Eduba appears only in the footer line.
+
+Intended URL path: /for/millennium-management
